@@ -26,9 +26,17 @@ Desarrollar un programa que determine si en una lista se encuentra una cadena de
 y si no existe debe imprimir "No existe". 
 
 Codigo con dos o mas vocales:
+![image](https://github.com/user-attachments/assets/5bbc4509-84ac-4a88-812b-6a35209f4051)
+
 Salida en consola con dos o mas vocales:
+
 Codigo sin vocales:
+
+![image](https://github.com/user-attachments/assets/340ca2d1-c82d-4459-87b4-16db1f98b663)
+
 Salida en consola sin vocales:
+
+![image](https://github.com/user-attachments/assets/5d18c53c-af96-4127-a689-ea21b2a4527b)
 
 #Ejercicio 3
 
